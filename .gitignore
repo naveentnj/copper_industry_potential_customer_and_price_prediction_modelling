@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+ipynb_checkpoints/
+.ipynb_checkpoints/
+__pycache__/
+regression_models/
+classification_models/
+/regression_models/*
+/classification_models/*
+*.pkl 
